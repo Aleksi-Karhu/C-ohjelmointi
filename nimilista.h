@@ -1,7 +1,7 @@
 /*****************************************************************************/
 /* CT60A0220 C-ohjelmoinnin ja testauksen periaatteet 
  * Tekijä: Aleksi Karhu
- * Opiskelijanumero: 0452237
+ * Opiskelijanumero: #######
  * Päivämäärä:31.3.2018
  * Yhteistyö ja lähteet, nimi ja yhteistyön muoto:
  */
